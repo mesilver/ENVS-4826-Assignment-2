@@ -10,7 +10,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Paper Information
+### Github Link
+
+
+
+### Bibliographic Information
 
 Schmeidel, I., and Culmsee, H. (2016). The influence of landscape fragmentation, expressed by the ‘Effective
 Mesh Size Index’, on regional patterns of vascular plant species
@@ -24,11 +28,11 @@ richness in Lower Saxony, Germany", was written by Inga Schmeidel and Heike Culm
 
 ## Methods
 
-The authors chose species based on a database of plant species for Lower Saxony. Data was used from 1982-2003 as field work started in 2004 is still ongoing. The data covered 1386 grid cells of 30km squared. The species were classified based on their status as native/invasive or threatened etc. Species richness was then calculated for each grid cell. A digital landscape model of Lower Saxony was used to find habitat types for plants, including forests, grasslands, urban areas, etc. Effective mesh size was used to quantify the amount of landscape fragmentation and find patch sizes.
+The authors chose species based on a database of plant species for Lower Saxony. Data was used from 1982-2003 as field work started in 2004 is still ongoing. The data covered 1386 grid cells of 30km squared. The species were classified based on their status as native/invasive or threatened etc. Species richness was then calculated for each grid cell. A digital landscape model of Lower Saxony was used to find habitat types for plants, including forests, grasslands, urban areas, etc. Effective mesh size was used to quantify the amount of landscape fragmentation and find patch sizes. R was used for statistical correlation analysis.
 
 ## Results and Discussion
 
-
+In this study, a negative correlation was found between species richness and landscape fragmentation , which means that the highest species richness of vascular plants was found to be in highly fragmented grid cells and the lowest species richness was in less fragmented cells, for all species except those that are threatened. Neophytes, or recently introduced species, were the plants that were most affected by landscape fragmentation (through mEff). 
 
 ```{r figure, echo=FALSE}
 plot(1:50, 1:50, ylab = "Plant Species Richness", xlab = "Landscape Fragmentation")
