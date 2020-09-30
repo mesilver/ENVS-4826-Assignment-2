@@ -20,11 +20,11 @@ richness in Lower Saxony, Germany. *Landscape and Urban Planning, 153*:209-220. 
 
 A new study from Germany has found that landscape fragmentation can have an impact on the patterns of species richness in vascular plants. The study, titled "The influence of landscape fragmentation, expressed by the ‘Effective
 Mesh Size Index’, on regional patterns of vascular plant species
-richness in Lower Saxony, Germany", was written by Inga Schmeidel and Heike Culmsee and published in the Journal of Landscape and Urban Planning in 2016. The study used a connectivity method called the Effective Mesh Size (or mEff) and data from 1982 to 2003
+richness in Lower Saxony, Germany", was written by Inga Schmeidel and Heike Culmsee and published in the Journal of Landscape and Urban Planning in 2016. The study used a connectivity method called the Effective Mesh Size (or mEff) and data from 1982 to 2003 to find the landscape fragmentation in the area and how it impacts the species richness of vascular plants.
 
 ## Methods
 
-The authors chose species based on a database of plant species for Lower Saxony. Data was used from 1982-2003 as field work started in 2004 is still ongoing. The data covered 1386 grid cells of 30km squared. The species were classified based on their status as native/invasive or threatened etc. Species richness was then calculated for each grid cell. 
+The authors chose species based on a database of plant species for Lower Saxony. Data was used from 1982-2003 as field work started in 2004 is still ongoing. The data covered 1386 grid cells of 30km squared. The species were classified based on their status as native/invasive or threatened etc. Species richness was then calculated for each grid cell. A digital landscape model of Lower Saxony was used to find habitat types for plants, including forests, grasslands, urban areas, etc. Effective mesh size was used to quantify the amount of landscape fragmentation and find patch sizes.
 
 ## Results and Discussion
 
